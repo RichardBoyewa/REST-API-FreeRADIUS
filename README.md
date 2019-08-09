@@ -21,7 +21,7 @@ Install build dependencies with:
 ```
 apt-get install -y build-essential libssl-dev libcurl4-openssl-dev libjson-c-dev
 ```
-
+[New] follow https://wiki.freeradius.org/building/Debian%20and%20Ubuntu
 Then download and build FreeRADIUS with:
 ```
 git clone -b v3.0.x https://github.com/FreeRADIUS/freeradius-server.git
